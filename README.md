@@ -1,2 +1,7 @@
 <h1 Prueba curso de Alura>
- - Sistema del proyecto en construccion -
+ - Estado del proyecto: Sistema del proyecto en construccion.
+
+ para ejecutar el sistema debes poner 
+  
+  
+  ```nmp install react```
